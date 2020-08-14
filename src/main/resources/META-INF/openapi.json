@@ -1,0 +1,20 @@
+{
+    "openapi": "3.0.2",
+    "info": {
+        "title": "andrew",
+        "version": "1.0.0",
+        "description": "Andrew"
+    },
+    "paths": {
+        "/stuff": {
+            "get": {
+                "responses": {
+                    "200": {
+                        "description": "Desc"
+                    }
+                },
+                "summary": "Get"
+            }
+        }
+    }
+}
